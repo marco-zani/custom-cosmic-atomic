@@ -21,8 +21,9 @@ modules:
 #    repos:
 #      copr:
 #        - atim/starship
-#    install:
-#      packages:
+    install:
+      packages:
+        - fastfetch 
 #        - micro
 #        - starship
     remove:
